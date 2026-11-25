@@ -17,7 +17,7 @@
 ### Tecnologías
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,python,fastapi,js,html,css,docker,linux,arch,bash,git&perline=12" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,python,fastapi,js,html,css,docker,linux,arch,bash,git,react&perline=12" alt="Tecnologías" />
 </p>
 
 | Área | Herramientas |
